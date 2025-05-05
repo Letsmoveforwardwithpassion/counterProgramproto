@@ -1,0 +1,38 @@
+/* .counter {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #000;
+}
+.counter-number{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.button{
+    font-style: 16px;
+    padding: 10px 20px;
+} */
+
+.counter {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #000;
+}
+.counter-number{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.button{
+    font-style: 20px;
+    padding: 10px 20px;
+    border: 0;
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.button:hover{
+    opacity: 0.8;
+    transition: opacity .25s;
+}
